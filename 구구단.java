@@ -14,4 +14,5 @@ public class 구구단 {
 
         }
     }
+    System.out.println("이응");
 }
